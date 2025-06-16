@@ -132,7 +132,7 @@ a.info-box{
 /*============ INFO BOX FULL ============*/
 
 #info-box-full{
-    background: rgba(255, 255, 255, rgba(255, 255, 255, .8));
+    background: rgba(255, 255, 255,  .8);
     width: 90%;
     display: block;
     margin: auto;
