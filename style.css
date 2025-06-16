@@ -77,6 +77,19 @@ body{
     padding-top: 12px;
 }
 
+/*============ MAIN ============*/
+
+#main{
+    margin-top: 119px;
+    background: url('images/map-blur.png');
+    background-repeat: repeat-y;
+}
+
+#content{
+    padding-top: 1px;
+    padding-bottom: 50px;
+}
+
 
 
 
