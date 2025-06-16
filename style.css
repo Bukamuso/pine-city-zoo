@@ -109,6 +109,26 @@ a.info-box{
     float: left;
 }
 
+.info-box h3{
+    padding: 0;
+    margin-bottom: 0;
+    width: 90%;
+    color: #572800;
+}
+
+.info-box p{
+    margin: 0;
+    padding: 0;
+    width: 90%;
+    color: #131313;
+}
+
+.info-box img.right{
+   float: right; 
+   margin-top: 25px;
+   height: 40px;
+}
+
 
 
 
